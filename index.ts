@@ -1,14 +1,3 @@
-//const firtname = "Gabriel"
-//const anotherName = 1
-//const x = true
-
-//function greeting(name: string){
-//    console.log("Ola "+ name)
-//}
-
-
-//greeting(firtname)
-
 const nome:string="gabriel"
 const idade:number=19
 const telefone:number=997107122
